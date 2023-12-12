@@ -3,9 +3,9 @@
 The distribution of this software is governed by a MIT-style license that can be
 found in the LICENSE file at the top-level of this distribution.
 
-link: https://github.com/google/protobuf/blob/master/LICENSE.txt
+link: https://github.com/google/protobuf
 
-1) The MIT License (MIT) (https://github.com/google/protobuf/blob/master/LICENSE.txt) and the
+1) The MIT License (MIT) (https://github.com/protocolbuffers/protobuf/blob/main/LICENSE) and the
 contributors of this software may use it in accordance with the terms of the MIT-style license.
 
 2) All right reserved. This work is licensed under the MIT-style license.
@@ -34,7 +34,7 @@ the signature parameters are optional and the method signature is optional.
 ### ls
 1) query parameters and signature parameters are optional 
 
-docs: http://docs.google.com/spreadsheet
+docs: https://docs.google.com
 
 2) query parameters and signature parameters are optional and will be included in 
 the documenation and documenation for query parameters and method signatures.
